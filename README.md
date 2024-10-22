@@ -1,3 +1,7 @@
+
+## NOTE 22/OKT/2024: ComfyUI now NATIVELY SUPPORTS Long-CLIP. 🥳 
+- This node is obsolete. Simply load Long-CLIP With e.g. the DualCLIPLoader node!
+-----
 ## Update 31/AUG/2024
 - Added support for safetensors
 - You can download my improved, fine-tuned Long-CLIP models [here on HF 🤗](https://huggingface.co/zer0int/LongCLIP-GmP-ViT-L-14/tree/main).
